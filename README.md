@@ -14,6 +14,7 @@ It has 2 Agents ie. Employee & Manager
 # Employee Table:-
 
 id  name          equipments  requests  password
+
 1   Akash Nikam   2              3      1234
 2   Harish Patil  3              1      1234
 3   Vishal Kumar  1              4      1234
@@ -21,6 +22,7 @@ id  name          equipments  requests  password
 
 # Inventory Table:
 id   name     status    employee   qty
+
 1    CPU      Active     1         10
 2    Mouse    Inactive              0
 3    Router   Active     1          5
